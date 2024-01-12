@@ -1,0 +1,32 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 1000px;
+  height: 400px;
+  background-color: rgb(193, 253, 235);
+}
+
+.rendered {
+  display: flex;
+  justify-content: space-between;
+  width: 950px;
+}
+
+.jokeDivs {
+  padding-top: 30px;
+  text-align: center;
+  width: 450px;
+  height: 200px;
+  border-radius: 15px;
+  background-color: white;
+  box-shadow: 0px 4px 8px rgba(148, 148, 148, 0.973);
+}
+h1 {
+  font-size: 28px;
+}
+
+p {
+  font-size: 18px;
+}
